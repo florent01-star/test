@@ -1,4 +1,4 @@
-# Florent — QA Engineer
+# Florent | QA Engineer
 
 **Ingénieur QA | Automatisation des tests | Test Management **
 
@@ -48,9 +48,9 @@ Le projet comprend :
 
 ## Expérience
 
-- **Crédit Agricole Titres** — QA Automation Engineer / Lead QA
-- **eu-LISA** — QA Automation Engineer
-- **URSSAF** — QA Automation Engineer
+- **Crédit Agricole Titres** : QA Automation Engineer / Lead QA
+- **eu-LISA** : QA Automation Engineer
+- **URSSAF** : QA Automation Engineer
 
 Expérience dans des environnements bancaires, institutionnels et réglementés.
 
