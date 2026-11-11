@@ -1,6 +1,6 @@
 # Florent | QA Engineer
 
-**Ingénieur QA | Automatisation des tests | Test Management **
+Ingénieur QA | Automatisation des tests | Test Management
 
 Bienvenue sur mon portfolio !
 
