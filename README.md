@@ -10,7 +10,7 @@ J'accorde une importance particulière à la structuration des activités de tes
 
 ## Projets
 
-### 01 — Automatisation des tests E2E
+### 01 - Automatisation des tests E2E
 
 **Playwright · TypeScript · BDD · Gherkin · GitHub Actions**
 
@@ -24,7 +24,7 @@ Le projet met en œuvre :
 
 **[Consulter le projet sur GitHub →](https://github.com/florent01-star/test-automation)**
 
-### 02 — Conception d'une stratégie de test
+### 02 - Conception d'une stratégie de test
 
 **Test Management · Risk-based Testing · Requirements · Traceability**
 
